@@ -4,11 +4,7 @@
 
 
 <p align="left">
-In this project, I am doing a quick experiment on this website that measures your typing pace.
-The program basically scraps the text that will be written and writes it right away and 
-continues to do this till the time is up. There are a few challenges that I addressed, things like
-the text always updates and you write some part of it and now the new chunk of text has some part that you have already covered
-in the past text chunk so, you need to address this with some python magic. 
+Hey there, in this project I am scrapping craiglist website.
 </p>
 
 - 🌱 I’m currently learning **ML Algorithms.**
